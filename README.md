@@ -45,4 +45,4 @@ pygame.quit()
 
 ## Installation
 ```bash
-pip install PFPS
+pip install pfps
